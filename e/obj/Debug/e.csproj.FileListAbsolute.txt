@@ -1,0 +1,6 @@
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\encryptor\e\bin\Debug\e.exe.config
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\encryptor\e\bin\Debug\e.exe
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\encryptor\e\bin\Debug\e.pdb
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\encryptor\e\obj\Debug\e.csproj.CoreCompileInputs.cache
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\encryptor\e\obj\Debug\e.exe
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\encryptor\e\obj\Debug\e.pdb
