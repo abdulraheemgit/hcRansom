@@ -1,0 +1,10 @@
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\bin\Debug\xRan.exe.config
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\bin\Debug\xRan.exe
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\bin\Debug\xRan.pdb
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Debug\xRan.csprojAssemblyReference.cache
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Debug\xRan.Form1.resources
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Debug\xRan.Properties.Resources.resources
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Debug\xRan.csproj.GenerateResource.cache
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Debug\xRan.csproj.CoreCompileInputs.cache
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Debug\xRan.exe
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Debug\xRan.pdb

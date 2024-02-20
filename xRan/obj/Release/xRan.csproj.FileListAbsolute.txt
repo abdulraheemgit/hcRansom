@@ -1,0 +1,9 @@
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\bin\Release\xRan.exe.config
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\bin\Release\xRan.exe
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\bin\Release\xRan.pdb
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Release\xRan.Form1.resources
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Release\xRan.Properties.Resources.resources
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Release\xRan.csproj.GenerateResource.cache
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Release\xRan.csproj.CoreCompileInputs.cache
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Release\xRan.exe
+C:\Users\ar\Desktop\CSW19\Ransomeware\Final\xRan\xRan\obj\Release\xRan.pdb
